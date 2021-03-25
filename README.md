@@ -1,2 +1,2 @@
 # cardano-staking-calculator
-Cardano (ADA) Staking Calculator
+Cardano (ADA) Staking Calculator REST API
